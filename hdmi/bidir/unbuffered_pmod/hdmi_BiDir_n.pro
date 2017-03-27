@@ -1,4 +1,4 @@
-update=Sun 25 Sep 2016 07:48:54 PM IST
+update=2017年03月27日月曜日 14:06:54
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=valves
 LibName30=pmod-conn_6x2
 LibName31=hdmi
 LibName32=hdmi_BiDir_n
+LibName33=dcdc_converter
